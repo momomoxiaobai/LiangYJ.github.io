@@ -1,1 +1,10 @@
-theme: jekyll-theme-merlot
+title: Yanjie Liang
+description: LLM Algorithm Engineer @ ByteDance
+theme: minima
+author: Yanjie Liang
+email: yanjieliang88@gmail.com
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: classic
